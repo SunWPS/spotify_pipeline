@@ -1,1 +1,2 @@
-config.ini
+.dist/
+dags/__pycache__/

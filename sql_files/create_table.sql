@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS my_song_spotify(song varchar(100), artist varchar(100), played_at varchar(50), ts varchar(20), PRIMARY KEY(played_at));
